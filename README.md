@@ -9,5 +9,5 @@ I'm a BSIT student who is passionate about writing code, solving problems, autom
 - 👯 I’m looking for a web development internship. 
 - 📫 How to reach me: [Facebook](https://www.facebook.com/bosscleo3233) [Gmail](mailto: codebuddysolutions@gmail.com)
 
-/*⭐️ From [hazemessam](https://github.com/hazemessam)
-Inspired from [AbdelrahmanBayoumi](https://github.com/abdelrahmanbayoumi)*/
+⭐️ From [hazemessam](https://github.com/hazemessam)
+Inspired from [AbdelrahmanBayoumi](https://github.com/abdelrahmanbayoumi)
