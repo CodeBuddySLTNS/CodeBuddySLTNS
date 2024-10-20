@@ -8,3 +8,4 @@ I'm a BSIT student who is passionate about writing code, solving problems, autom
 - 📚 I’m currently learning  full stack web development using MongoDB, ExpressJS, React, and NodeJS.
 - 👯 I’m looking for a web development internship. 
 - 📫 How to reach me: [Facebook](https://www.facebook.com/bosscleo3233) [Gmail](mailto: codebuddysolutions@gmail.com)
+- 🕸️ You can also check out my official website here: https://codebuddysltns.verahost.ph
