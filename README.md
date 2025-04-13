@@ -1,10 +1,6 @@
-### Hi there 👋
-
-<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
-
 <p align="center"> 
  <img width="100px" src="https://raw.githubusercontent.com/itsmenewbie03/itsmenewbie03/main/shit_1-modified.png" align="center" alt="GitHub Readme Stats" style="border-radius: 50%; display: block; margin: auto;" />
- <h2 align="center">Hi<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"/>, itsmenewbie03</h2>
+ <h2 align="center">Hi<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"/>, I'm your codebuddy</h2>
 </p>
 <img align="center" src="https://skillicons.dev/icons?i=ts,js,nodejs,python,rust,go,svelte,regex,neovim,vim,discord,mongodb,express,git,github&theme=dark"/>
 <p> <img src="https://komarev.com/ghpvc/?username=itsmenewbie03&style=for-the-badge&color=green"/>
@@ -30,11 +26,3 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsmenewbie03&theme=merko"  display=block width=100% height=auto  alt="1" >
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsmenewbie03&area=true&theme=merko&hide_border=true" display=block width=100% height=auto alt="3">
-
-I'm a BSIT student who is passionate about writing code, solving problems, automating stuff, and building web sites/apps.
-
-- 🔭 I’m currently an IT student at Philippine Advent College.
-- 📚 I’m currently learning  full stack web development using MongoDB, ExpressJS, React, and NodeJS.
-- 👯 I’m looking for a web development internship. 
-- 📫 How to reach me: [Facebook](https://www.facebook.com/bosscleo3233) [Gmail](mailto: codebuddysolutions@gmail.com)
-- 🕸️ You can also check out my official website here: https://renzcole.is-a.dev 
