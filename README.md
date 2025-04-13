@@ -35,7 +35,7 @@
 ---
 
 ##### You can also check out my portfolio here:
-[![My Portfolio](https://img.shields.io/badge/-My%20Portfolio-222222?style=flat&logo=internet-explorer&logoColor=white)](https://your-portfolio-url.com)
+[![My Portfolio](https://img.shields.io/badge/-My%20Portfolio-222222?style=flat&logo=internet-explorer&logoColor=white)](https://renzcole.is-a.dev)
 
 ---
 
