@@ -29,13 +29,15 @@
 ![Express](https://img.shields.io/badge/-Express-222222?style=flat&logo=express&logoColor=ffffff)
 ![Socket.io](https://img.shields.io/badge/-Socket.io-222222?style=flat&logo=socket.io&logoColor=010101)
 ![NPM](https://img.shields.io/badge/-NPM-222222?style=flat&logo=npm&logoColor=CB3837)
+
+##### Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-222222?style=flat&logo=mongodb&logoColor=47A248)
 ![MySQL](https://img.shields.io/badge/-MySQL-222222?style=flat&logo=mysql&logoColor=4479A1)
 <br/>
 
 ---
 
-##### You can also check out my portfolio here:
+##### You can also check out my portfolio here
 [![My Portfolio](https://img.shields.io/badge/-My%20Portfolio-222222?style=flat&logo=internet-explorer&logoColor=white)](https://renzcole.is-a.dev)
 
 ---
