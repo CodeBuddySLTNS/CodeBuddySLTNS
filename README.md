@@ -1,4 +1,4 @@
-### Hi there 👋 I'm [CodeBuddySLTNS](https://github.com/CodeBuddySLTNS)
+### Hi there 👋 I'm [CodeBuddy](https://github.com/CodeBuddySLTNS)!😊
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
