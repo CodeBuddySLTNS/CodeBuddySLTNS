@@ -5,7 +5,7 @@
     
 ## I'm a Full-Stack Mobile App / Web Developer
 
-- 👨‍💻 I’m currently working on my LAN-Based Examination System Project
+- 👨‍💻 I’m currently working on our system for our Capstone Project
 - 📚 Learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
